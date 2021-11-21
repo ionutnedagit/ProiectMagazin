@@ -7,4 +7,6 @@ Pagina produs - carti digitale, descriere (titlu, autor, prezentare), foto (thum
 Pagina cos 
 Pagina plata
 Pagina client - date personale (editare), lista comenzi
-Pagina de administrare.
+Pagina de administrare - metode de administrare.
+    - creare/modificare/stergere cont
+    - creare/modificare/stergere produs
